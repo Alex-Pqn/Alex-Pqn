@@ -1,6 +1,6 @@
 <h1><img alt="Blob Wave Emoji" src="./blob-wave.gif" width="33"/> Hi, welcome!</h1>
 
-<p>I'm Alexandre, a 19-year-old web developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="11"/> <b>France</b>
+<p>I'm Alexandre, a 19-year-old web developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="11"/> <b>France</b>.
 <h3>Stack</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
